@@ -1,0 +1,11 @@
+{
+  "name": "ts-paper-giaic",
+  "version": "1.0.0",
+  "description": "typescript exam preparation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "syeda rohab rashid ali",
+  "license": "MIT"
+}
